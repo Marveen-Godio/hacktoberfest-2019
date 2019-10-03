@@ -1,3 +1,9 @@
+
+#### Name: [Marveen Godio-hunot](https://github.com/Marveen-Godio)
+- Place: Toulouse, Occitannie, France
+- Bio: Forex and crypto trader.
+- GitHub: [Marveen-Godio](https://github.com/Marveen-Godio)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
